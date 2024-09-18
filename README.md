@@ -20,7 +20,7 @@ Here are some of the technologies I love working with:
 #
 Backend:
 Java | Spring Boot | Hibernate | REST APIs
-#
+
 Frontend:
 Angular | HTML5 | CSS3 | JavaScript | TypeScript
 
