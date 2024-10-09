@@ -41,7 +41,7 @@ Here are some of my favorite tools and technologies that I love to wield:
 - Angular | HTML5 | CSS3 | JavaScript | TypeScript
 
 **📦 Databases:**
-- MySQL | PostgreSQL | MongoDB
+- MySQL | PostgreSQL
 
 **🔨 Tools & DevOps:**
 - Git | Docker | Jenkins | Maven
